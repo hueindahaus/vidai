@@ -1,0 +1,36 @@
+{
+	"name": "vidai",
+	"build": {
+		"dockerfile": "../Dockerfile.dev",
+		"args": {
+			"DOCKER_USER": "hueindahaus",
+		}
+	},
+	"runArgs": [
+		"--network", "host",
+		"--name", "vidai_devcontainer",
+		"-h", "vidai_devcontainer", // Container hostname string to avoid a cryptic name in terminal
+		"-v", "${env:HOME}/docker/local-output:/output", // Provide relevant environment variables in case "home is not mounted and/or variables are not specified in .bashrc"
+		"--user", "1000:1000",
+		"-e", "PYTHONPATH=./",
+		"-e", "HOME=${env:HOME}",
+		"-e", "PYTHONNOUSERSITE=True",
+		// "-e", "DISPLAY=${env:DISPLAY}",
+		"-v", "/home/${env:USER}/fake_etc/group:/etc/group",
+		"-v", "/home/${env:USER}/fake_etc/passwd:/etc/passwd",
+		"-v", "/usr/share/bash-completion/bash_completion:/usr/share/bash-completion/bash_completion",
+		"-v", "/tmp/.X11-unix:/tmp/.X11-unix",
+		"-v", "/home/${env:USER}/:/home/${env:USER}/",
+	],
+	"workspaceMount": "source=${localWorkspaceFolder},target=/docker_projects/vidai,type=bind",
+	"workspaceFolder": "/docker_projects/vidai",
+	"containerEnv": {
+		"DOCKER_BUILDKIT": "1"
+	},
+	"remoteEnv": {
+		"DOCKER_BUILDKIT": "1"
+	},
+	// "preAttachCommand": [],
+	// "postAttachCommand": [],
+	"forwardPorts": ["5050:5050", "3000:3000", "3001:3001", "1883:1883"]
+}

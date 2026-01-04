@@ -1,0 +1,2 @@
+#!/bin/bash
+devcontainer up --workspace-folder . && devcontainer exec --workspace-folder . tmux -2 -u new-session \; split-window \; send -t top 'nvim .' ENTER \; attach
