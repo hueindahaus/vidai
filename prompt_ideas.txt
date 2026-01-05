@@ -1,0 +1,103 @@
+Create a video prompt for a 10 second video where the video is shot from a policeman's body camera. The video should contain a random animal, but not a racoon doing something illegal.
+
+Follow the structure:
+[Prose scene description in plain language. Describe characters, costumes, scenery, weather and other details.]
+Camera shot: [framing and angle, e.g. wide establishing shot, eye level]
+Timeline: 
+- 0–3 seconds: [Hook: Grab viewers attention!].
+- 3–7 seconds: [Action: a clear, specific beat or gesture].
+- 7–10 seconds: [Climax: another action or dialogue line with a twist and comedic timing]
+
+Follow the structure:
+[Prose scene description in plain language. Describe characters, costumes, scenery, weather and other details. Be as descriptive to generate a video that matches your vision.]
+Cinematography:
+Camera shot: [framing and angle, e.g. wide establishing shot, eye level]
+Mood: [overall tone, e.g. cinematic and tense, playful and suspenseful, luxurious anticipation]
+Actions:
+1. [Action 1: a clear, specific beat or gesture]
+2. [Action 2: another distinct beat within the clip]
+3. [Action 3: another action or dialogue line]
+Dialogue:
+[If the shot has dialogue, add short natural lines here or as part of the actions list. Keep them brief so they match the clip length.]
+
+
+-----------------------------------
+
+
+Create a video prompt for a 10 second video where the video is authentically shot from a phone camera of an animal owner. The video should contain a random animal doing something unhinged.
+Follow the structure:
+[Prose scene description in plain language. Describe characters, costumes, scenery, weather and other details.]
+Camera shot: [framing and angle, e.g. wide establishing shot, eye level]
+Timeline: 0–3 seconds: [Hook: Grab viewers attention!]. 3–7 seconds: [Action: a clear, specific beat or gesture]. 7–10 seconds: [Climax: another action or dialogue line with a twist]
+
+
+-------------------------------------
+
+Create a viral video prompt for a 10 second video where an animal is caught by the owner doing something completely unhinged. Involve something insane like a tank or a bazooka but come up with something else. The footage is caught authentically from a surveillance system like a dashcam or a bodycam or a security camera.
+
+Follow the structure:
+[Prose scene description in plain language. Describe characters, costumes, scenery, weather and other details.]
+Camera shot: [framing and angle, e.g. wide establishing shot, eye level]
+Timeline: 0–3 seconds: [Hook: Grab viewers attention!]. 3–7 seconds: [Action: a clear, specific beat or gesture]. 7–10 seconds: [Climax: another action or dialogue line with a twist]
+
+
+-------------------------------------
+
+Create a video prompt for a 10 second video where an animal is caught by the owner doing disasterous. Involve something insane like a tank or a bazooka but come up with something else. The footage is caught from a surveillance system like a dashcam or a bodycam or a security camera.
+
+Follow the structure:
+[Prose scene description in plain language. Describe characters, costumes, scenery, weather and other details.]
+Camera shot: [framing and angle, e.g. wide establishing shot, eye level]
+Timeline: 0–3 seconds: [Hook: Grab viewers attention!]. 3–7 seconds: [Action: a clear, specific beat or gesture]. 7–10 seconds: [Climax: another action or dialogue line with a twist and comedic timing]
+
+-----------------------------------
+
+Create a video prompt for a 10 second video of something completely unhinged. The humour should be very subtle with very subtle comedic timing. It should be so bad that it becomes good.
+
+Follow the structure:
+[Prose scene description in plain language. Describe characters, costumes, scenery, weather and other details. Be as descriptive to generate a video that matches your vision.]
+Cinematography:
+Camera shot: [framing and angle, e.g. wide establishing shot, eye level]
+Mood: [overall tone, e.g. cinematic and tense, playful and suspenseful, luxurious anticipation]
+Actions:
+1. [Action 1: a clear, specific beat or gesture]
+2. [Action 2: another distinct beat within the clip]
+3. [Action 3: another action or dialogue line]
+Dialogue:
+[If the shot has dialogue, add short natural lines here or as part of the actions list. Keep them brief so they match the clip length.]
+
+
+
+
+
+------------------
+
+Create a scenario for a video in a single very brief and concise sentence. It should capture a disturbing and unexplored concept that is weird but still makes sense somehow. Some examples would be:
+"Surreal 90's television advert which keeps getting interrupted by cutting to someone screaming 'WAKE UP'"
+"POV of someone handing out gnomes in a small medieval village"
+"Political advert for the Lemon President but it's basically just clips of him in the oval office striking different poses"
+"A vlog from the hot dog gobbler eating the hot dogs"
+"Standup goat but somebody throws a comedian at the goat"
+"Someone making an omelette but they have kept all the eggshells in it"
+"Emus invading florida"
+"Body cam footage of cops arresting a dog stealing meat in Costco"
+"Body cam footage of a newbirthed baby being chased by the police"
+"Jesus christ competing in swimming, but instead of swimming he runs on water"
+"Polar bear shooting a bazooka captured on CCTV"
+"Police chase viewed from a helicopter where the police stops the chase to order food at a drive-in"
+
+
+--------------------------------
+
+Create a scenario for a video in a single very brief and concise sentence. It should capture an advert that is weird but still makes sense somehow. Some examples would be:
+"Surreal 90's television advert which keeps getting interrupted by cutting to someone screaming 'WAKE UP'"
+"Political advert for the Lemon President but it's basically just clips of him in the oval office striking different poses"
+"Advert for a company that is only selling right shoes."
+
+--------------------------------
+
+Create a scenario for a video in a single very brief and concise sentence. It should involve an orange cat that does something insanely unhinged. Some examples would be:
+"An orange cat planting a c4 bomb on the porch while the owner comes running out screaming and trying to stop it."
+"An orange cat pushing a stroller from a high hill while the mother runs after the stroller."
+"An orange cat gambling away the owners money."
+

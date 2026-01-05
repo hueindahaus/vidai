@@ -1,0 +1,18 @@
+{
+  "subject": "A police officer wearing a body camera, and a polar bear.",
+  "scene": "A desolate, snow-covered road in a remote, arctic region. The time of day is late afternoon, with a pale, weak sun casting long shadows. The weather is cold and clear.",
+  "visual_timeline": [
+    "00:00-00:04: A police officer's POV from a body camera. The camera is slightly shaky, indicating movement. In the foreground, a large polar bear is sitting in the driver's seat of a battered, old police car, paws on the steering wheel. The policeman's voice is heard ordering the bear to stop. The bear looks directly at the camera with mild surprise, then abruptly puts the car into gear and accelerates away. The officer starts to run after the car.",
+    "00:04-00:07: The body camera footage continues to track the speeding police car as the officer attempts to keep pace. The car kicks up snow. The officer's breathing becomes heavy, and the camera angle is low and dynamic, emphasizing the chase. The polar bear is visible through the rear window, looking back with a determined expression.",
+    "00:07-00:10: The officer slows to a stop, panting heavily, as the police car disappears over a snowy rise in the distance. The officer looks dejected and resigned. The camera pans slightly to show the vast, empty snowy landscape, emphasizing the futility of the chase. The audio shifts to a low, desolate wind."
+  ],
+  "cinematography": "Low-light, handheld, slightly disorienting POV from a body camera. Gritty, realistic film stock with noticeable grain. Use of natural, diffused arctic light.",
+  "audio": "Ambient sounds of wind, crunching snow underfoot, heavy panting. Dialogue: (Officer, slightly out of breath) \"Freeze! Stop the vehicle!\" (Officer, resigned) \"Ah, forget it. Too fast.\"",
+  "color_palette": [
+    "desaturated blues",
+    "whites",
+    "grays",
+    "pale yellow"
+  ],
+  "visual_rules": "No visible UI elements, subtitles, or watermarks."
+}
