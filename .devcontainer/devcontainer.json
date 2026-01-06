@@ -1,7 +1,7 @@
 {
 	"name": "vidai",
 	"build": {
-		"dockerfile": "../Dockerfile.dev",
+		"dockerfile": "Dockerfile.dev",
 		"args": {
 			"DOCKER_USER": "hueindahaus",
 		}
